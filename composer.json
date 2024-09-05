@@ -1,5 +1,5 @@
 {
-    "name": "muqsit/simple-packet-handler",
+    "name": "redtv_muqsit/simple-packet-handler",
     "description": "Handle specific data packets (virion for PMMP API 4.0.0)",
     "type": "library",
     "license": "GPL-3.0",
